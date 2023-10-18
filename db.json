@@ -1,0 +1,175 @@
+{
+    "makeup_products": [
+      {
+        "product_id": 1,
+        "product_name": "Foundation",
+        "brand": "Maybelline",
+        "category": "Face",
+        "shade": "Natural Beige",
+        "price": 12.99,
+        "availability": "In stock",
+        "rating": 4.5,
+        "image_url": "https://example.com/images/foundation.jpg"
+      },
+      {
+        "product_id": 2,
+        "product_name": "Mascara",
+        "brand": "L'Oréal",
+        "category": "Eyes",
+        "color": "Blackest Black",
+        "price": 8.99,
+        "availability": "In stock",
+        "rating": 4.2,
+        "image_url": "https://example.com/images/mascara.jpg"
+      },
+      {
+        "product_id": 3,
+        "product_name": "Lipstick",
+        "brand": "MAC",
+        "category": "Lips",
+        "color": "Ruby Woo",
+        "price": 16.99,
+        "availability": "Out of stock",
+        "rating": 4.8,
+        "image_url": "https://example.com/images/lipstick.jpg"
+      },
+      {
+        "product_id": 4,
+        "product_name": "Eyeshadow Palette",
+        "brand": "Urban Decay",
+        "category": "Eyes",
+        "palette_name": "Naked Heat",
+        "price": 45.99,
+        "availability": "In stock",
+        "rating": 4.9,
+        "image_url": "https://example.com/images/eyeshadow.jpg"
+      },
+      {
+        "product_id": 5,
+        "product_name": "Blush",
+        "brand": "NARS",
+        "category": "Face",
+        "shade": "Orgasm",
+        "price": 23.99,
+        "availability": "In stock",
+        "rating": 4.7,
+        "image_url": "https://example.com/images/blush.jpg"
+      },
+      {
+        "product_id": 6,
+        "product_name": "Eyeliner",
+        "brand": "Revlon",
+        "category": "Eyes",
+        "color": "Jet Black",
+        "price": 6.99,
+        "availability": "In stock",
+        "rating": 4.4,
+        "image_url": "https://example.com/images/eyeliner.jpg"
+      },
+      {
+        "product_id": 7,
+        "product_name": "Lip Gloss",
+        "brand": "NYX",
+        "category": "Lips",
+        "color": "Clear",
+        "price": 7.99,
+        "availability": "In stock",
+        "rating": 4.3,
+        "image_url": "https://example.com/images/lipgloss.jpg"
+      },
+      {
+        "product_id": 8,
+        "product_name": "Concealer",
+        "brand": "CoverGirl",
+        "category": "Face",
+        "shade": "Light Ivory",
+        "price": 9.99,
+        "availability": "In stock",
+        "rating": 4.6,
+        "image_url": "https://example.com/images/concealer.jpg"
+      },
+      {
+        "product_id": 9,
+        "product_name": "Eyebrow Pencil",
+        "brand": "Anastasia Beverly Hills",
+        "category": "Eyes",
+        "color": "Taupe",
+        "price": 18.99,
+        "availability": "In stock",
+        "rating": 4.5,
+        "image_url": "https://example.com/images/eyebrow.jpg"
+      },
+      {
+        "product_id": 10,
+        "product_name": "Lip Liner",
+        "brand": "Milani",
+        "category": "Lips",
+        "color": "Spice",
+        "price": 5.99,
+        "availability": "In stock",
+        "rating": 4.1,
+        "image_url": "https://example.com/images/lipliner.jpg"
+      },
+      {
+        "product_id": 11,
+        "product_name": "Bronzer",
+        "brand": "Too Faced",
+        "category": "Face",
+        "shade": "Sun Bunny",
+        "price": 26.99,
+        "availability": "In stock",
+        "rating": 4.8,
+        "image_url": "https://example.com/images/bronzer.jpg"
+      },
+      {
+        "product_id": 12,
+        "product_name": "Eyebrow Gel",
+        "brand": "Benefit Cosmetics",
+        "category": "Eyes",
+        "color": "Clear",
+        "price": 15.99,
+        "availability": "In stock",
+        "rating": 4.6,
+        "image_url": "https://example.com/images/eyebrowgel.jpg"
+      },
+      {
+        "product_id": 13,
+        "product_name": "Lip Balm",
+        "brand": "Burt's Bees",
+        "category": "Lips",
+        "flavor": "Mango",
+        "price": 3.99,
+        "availability": "In stock",
+        "rating": 4.2,
+        "image_url": "https://example.com/images/lipbalm.jpg"
+      },
+      {
+        "product_id": 14,
+        "product_name": "Highlighter",
+        "brand": "Becca",
+        "category": "Face",
+        "shade": "Champagne Pop",
+        "price": 34.99,
+        "availability": "In stock",
+        "rating": 4.7,
+        "image_url": "https://example.com/images/highlighter.jpg"
+      },
+      {
+        "product_id": 15,
+        "product_name": "Eyelash Curler",
+        "brand": "Shiseido",
+        "category": "Eyes",
+        "price": 10.99,
+        "availability": "In stock",
+        "rating": 4.0,
+        "image_url": "https://example.com/images/eyelashcurler.jpg"
+      }
+    ]
+  }
+   
+  
+  
+  
+  
+  
+  
